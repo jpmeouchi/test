@@ -1,2 +1,2 @@
 # test
-fiori workshop test 2
+fiori workshop test
